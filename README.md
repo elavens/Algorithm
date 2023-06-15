@@ -1,1 +1,1 @@
-# Algorithm
+# Useful-algo-for-competetive-programming
